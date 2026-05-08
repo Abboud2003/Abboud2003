@@ -1,4 +1,4 @@
-# Hi there, I'm Abd Alhalem 👋
+# Hi there, I'm Abd Alhalem 
 
 ### MSc Bioinformatics Student | Biotechnology Graduate | Aspiring Computational Biologist
 
@@ -10,16 +10,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 Currently pursuing an MSc in Bioinformatics at the University of Birmingham  
-🧬 Biotechnology graduate from the University of Sharjah (GPA: 3.96/4.00)  
-🔬 Passionate about computational biology, machine learning, transcriptomics & biomedical data analysis  
-📊 Interested in integrating biological knowledge with data-driven solutions to solve real-world research problems  
+ Currently pursuing an MSc in Bioinformatics at the University of Birmingham  
+ Biotechnology graduate from the University of Sharjah (GPA: 3.96/4.00)  
+ Passionate about computational biology, machine learning, transcriptomics & biomedical data analysis  
+ Interested in integrating biological knowledge with data-driven solutions to solve real-world research problems  
 
 ---
 
-## 🧪 Current Focus
+##  Current Focus
 
 - Bioinformatics pipelines & transcriptomic analysis
 - Machine learning applications in biomedical datasets
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 - Python
@@ -60,20 +60,20 @@
 
 ---
 
-## 📚 Education
+##  Education
 
-### 🎓 University of Birmingham
+###  University of Birmingham
 **MSc Bioinformatics**  
 (Expected Graduation: Sept 2026)
 
-### 🎓 University of Sharjah
+###  University of Sharjah
 **BSc Applied Biology – Biotechnology**  
 Graduated: May 2025  
 GPA: 3.96 / 4.00
 
 ---
 
-## 🔬 Experience
+##  Experience
 
 ### Undergraduate Researcher — University of Sharjah
 *Jan 2024 – May 2025*
@@ -91,23 +91,23 @@ GPA: 3.96 / 4.00
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - Arabic — Fluent
 - English — Fluent
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
-📍 Birmingham, United Kingdom  
-📧 abdulhaleemabboud@gmail.com  
+ Birmingham, United Kingdom  
+ abdulhaleemabboud@gmail.com  
 
-💼 LinkedIn:  
-👉 [linkedin.com/in/abd-alhalem-abboud](https://www.linkedin.com/in/abd-alhalem-abboud/)
+ LinkedIn:  
+ [linkedin.com/in/abd-alhalem-abboud](https://www.linkedin.com/in/abd-alhalem-abboud/)
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I enjoy combining biology with computation to uncover meaningful patterns hidden inside complex biological data.
